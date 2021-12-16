@@ -1,0 +1,7 @@
+.heading{width:100%;margin-top:0px;font-size:25px;font-family:Cochin;box-shadow:15px 15px 20px black}
+canvas{animation-name:frinic; animation-duration: 4s;animation-iteration-count:infinite;}
+@keyframes frinic{
+    from{box-shadow:1px 1px 40px red;}to{box-shadow: :1px 1px 40px blue;}
+    
+}
+button:hover{font-size:25px}
